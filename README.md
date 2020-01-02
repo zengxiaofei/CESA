@@ -1,6 +1,6 @@
 ## Description
 
-A collection of data and custom scripts for the sequence alignment, percent identity and hydropathicity calculation, expression clustering and visualization in the research of **MgCesA** genes
+A collection of data and custom scripts for the sequence alignment, percent identity and hydropathicity calculation, expression analysis and visualization in the research of *MgCesA* genes
 
 ## Dependencies
 
@@ -14,7 +14,7 @@ Add the directories of these softwares to `$PATH`
 
 ## How to repeat the work
 
-Execute the shell scripts (`.sh`) in the sub-directories.
+Execute the shell scripts (`.sh` files) in the sub-directories.
 
 ## Citation
 
